@@ -1,0 +1,5 @@
+package com.springmongo.spring_mongo_demo.web;
+
+public class PetsController {
+
+}

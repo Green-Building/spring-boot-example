@@ -1,0 +1,9 @@
+package com.springmongo.spring_mongo_demo.models;
+
+//import org.bson.types.ObjectId;
+//import org.springframework.data.annotation.Id;
+
+
+public class Pets {
+
+}
